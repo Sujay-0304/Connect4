@@ -1,3 +1,5 @@
+
+# hiiii how are ourlashflhasdf
 BOARD_COLS = 7
 BOARD_ROWS = 6
 class Board():
@@ -88,5 +90,3 @@ def play():
             print("The game is a draw..")
             quit()
 play()
-
-###this is the first branch i am checking out 
