@@ -1,3 +1,5 @@
+
+# hiiii how are ourlashflhasdf
 BOARD_COLS = 7
 BOARD_ROWS = 6
 class Board():
