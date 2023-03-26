@@ -90,3 +90,5 @@ def play():
             print("The game is a draw..")
             quit()
 play()
+
+# debugged some codes and it works now
